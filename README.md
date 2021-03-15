@@ -9,8 +9,6 @@ Steam: https://steamcommunity.com/id/AWildErin/ <br>
 
 ## Coding Things
 
----
-
 ### Things I currently do:
 [Lancer Networks](https://lancer-networks.com/) | Developer, do things here and there. <br>
 Crowlite Software | Founder, waiting for S&Box to arrive to do things <br>
