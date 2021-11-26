@@ -11,6 +11,7 @@ Steam: https://steamcommunity.com/id/AWildErin/ <br>
 
 ### Things I currently do:
 Crowlite Software | Founder, doing Sandbox and other source things <br>
+Lambda Editor | Programmer, working on and off this project <br>
 
 ### Languages I code:
 Decent with: Lua <br>
