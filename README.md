@@ -10,8 +10,7 @@ Steam: https://steamcommunity.com/id/AWildErin/ <br>
 ## Coding Things
 
 ### Things I currently do:
-Portal 2: Community Edition | UI Developer, also do other bits and bobs <br>
-Crowlite Software | Founder, doing Sandbox and other source things <br>
+Portal 2: Community Edition | UI Developer, helping with Qt things aswell <br>
 Lambda Editor | Programmer, working on and off this project <br>
 
 ### Languages I code:
