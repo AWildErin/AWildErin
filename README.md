@@ -14,6 +14,5 @@ Portal 2: Community Edition | UI Developer, helping with Qt things aswell <br>
 Lambda Editor | Programmer, working on and off this project <br>
 
 ### Languages I code:
-Decent with: Lua <br>
-Okay with: C#, HTML/CSS (can't design things to save my life though) <br>
-I want to get better at: C++ <br>
+Decent with: Lua, C# <br>
+Okay with: C++, HTML/CSS <br>
