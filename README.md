@@ -11,7 +11,7 @@ Steam: https://steamcommunity.com/id/AWildErin/ <br>
 
 ### Things I currently do:
 [Momentum Mod](https://momentum-mod.org/) | UI Developer, also do some misc stuff aswell here and there <br>
-[Portal 2: Community Edition](https://portal2communityedition.com/) | UI Developer, helping with Qt things aswell <br>
+[Portal 2: Community Edition](https://portal2communityedition.com/) | Programmer <br>
 Lambda Editor | Programmer, working on and off this project <br>
 
 ### Languages I code:
