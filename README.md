@@ -10,10 +10,9 @@ Steam: https://steamcommunity.com/id/AWildErin/ <br>
 ## Coding Things
 
 ### Things I currently do:
-[Momentum Mod](https://momentum-mod.org/) | UI Developer, also do some misc stuff aswell here and there <br>
-[Portal 2: Community Edition](https://portal2communityedition.com/) | Programmer <br>
-Lambda Editor | Programmer, working on and off this project <br>
+[Momentum Mod](https://momentum-mod.org/) | UI Developer, Tool Programmer <br>
+[Portal 2: Community Edition](https://portal2communityedition.com/) | Programmer, Tool Programmer <br>
 
 ### Languages I code:
-Decent with: Lua, C# <br>
-Okay with: C++, HTML/CSS <br>
+Decent with: Lua, C#, C++ <br>
+Okay with: HTML/CSS <br>
