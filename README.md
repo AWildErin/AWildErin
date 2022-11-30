@@ -10,6 +10,7 @@ Steam: https://steamcommunity.com/id/AWildErin/ <br>
 ## Coding Things
 
 ### Things I currently do:
+[Project Borealis](https://projectborealis.com/) | Technical Designer
 [Momentum Mod](https://momentum-mod.org/) | UI Developer, Tool Programmer <br>
 [Portal 2: Community Edition](https://portal2communityedition.com/) | Programmer, Tool Programmer <br>
 
