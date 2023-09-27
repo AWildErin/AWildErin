@@ -3,7 +3,7 @@
 I'm a developer. I make things for fun when I get bored.
 
 ## Contact
-Discord: Erin#3059 <br>
+Discord: awilderin <br>
 Email: On request, don't usually give it out unless it's really required <br>
 Steam: https://steamcommunity.com/id/AWildErin/ <br>
 
