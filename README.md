@@ -10,7 +10,8 @@ Steam: https://steamcommunity.com/id/AWildErin/ <br>
 ## Coding Things
 
 ### Things I currently do:
-[Portal 2: Community Edition](https://portal2communityedition.com/) | Programmer, Tool Programmer <br>
+[Portal 2: Community Edition](https://portal2communityedition.com) | Programmer, Tool Programmer <br>
+[Project Borealis](https://projectborealis.com/) | Gameplay Programmer <br>
 
 ### Languages I code:
 Decent with: Lua, C#, C++ <br>
