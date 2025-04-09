@@ -4,7 +4,7 @@ I'm a developer. I make things for fun when I get bored.
 
 ## Contact
 Discord: awilderin <br>
-Email: me@awilderin.com
+Email: me@awilderin.com <br>
 Steam: https://steamcommunity.com/id/AWildErin/ <br>
 
 ## Coding Things
