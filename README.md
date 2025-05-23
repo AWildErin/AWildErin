@@ -1,6 +1,9 @@
 <h1 align="center">Welcome to my profile</h1>
 
-I'm a developer. I make things for fun when I get bored.
+Hi, I'm Erin! A programmer from the United Kingdom, mainly writing C++ with Unreal Engine and Source 1.
+I usually do all my work on a private GitLab, but all my public projects eventually make their way here.
+
+If you need to contact me or want to talk to me, feel free to add me on Discord or shoot me an email!
 
 ## Contact
 Discord: awilderin <br>
