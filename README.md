@@ -24,6 +24,8 @@ Steam: https://steamcommunity.com/id/AWildErin/ <br>
 - [OurFramework](https://github.com/AWildErin/ourframework): Various classes I've found useful enough to use on multiple projects.
 #### Projects
 - [SCPExerpts](https://github.com/AWildErin/scpexcerpts): Various open source code snippets from my WIP SCP:CB remake.
+#### Misc
+- [CIScripts](https://github.com/AWildErin/ciscripts): A python module used in my UE4/5 CI pipelines with helper utilities just to make it less painful.
 
 ### Libraries and tools
 - [CBReader](https://github.com/AWildErin/cbreader): A C++ library for reading various SCP:CB formats
