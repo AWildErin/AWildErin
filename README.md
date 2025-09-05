@@ -15,7 +15,7 @@ Steam: https://steamcommunity.com/id/AWildErin/ <br>
 ### Things I currently do:
 [Portal 2: Community Edition](https://portal2communityedition.com) | Programmer, Tool Programmer <br>
 [Project Borealis](https://projectborealis.com/) | Gameplay Programmer <br>
-[KUO Team](https://github.com/KUO-Team) | Dev Ops, Programmer <br>
+[Wacky Wizards](https://github.com/WackyWizards) | Dev Ops, Programmer <br>
 
 ### Unreal Engine
 #### Plugins
