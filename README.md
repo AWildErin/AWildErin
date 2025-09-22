@@ -19,8 +19,8 @@ Steam: https://steamcommunity.com/id/AWildErin/ <br>
 
 ### Unreal Engine
 #### Plugins
-- [CommonMaps](https://github.com/AWildErin/commonmaps): An extended common maps feature found in Lyra game sample
-- [DevUI](https://github.com/AWildErin/devui): A simple way to construct debug UI's with ImGui
+- [CommonMaps](https://github.com/AWildErin/commonmaps): An extended common maps feature found in Lyra game sample.
+- [DevUI](https://github.com/AWildErin/devui): A simple way to construct debug UI's with ImGui.
 - [OurFramework](https://github.com/AWildErin/ourframework): Various classes I've found useful enough to use on multiple projects.
 #### Projects
 - [SCPExerpts](https://github.com/AWildErin/scpexcerpts): Various open source code snippets from my WIP SCP:CB remake.
@@ -28,8 +28,9 @@ Steam: https://steamcommunity.com/id/AWildErin/ <br>
 - [CIScripts](https://github.com/AWildErin/ciscripts): A python module used in my UE4/5 CI pipelines with helper utilities just to make it less painful.
 
 ### Libraries and tools
-- [CBReader](https://github.com/AWildErin/cbreader): A C++ library for reading various SCP:CB formats
-- [CBConverter](https://github.com/AWildErin/cbconverter): A tool using CBReader to convert SCP:CB formats to fbx
+- [CBReader](https://github.com/AWildErin/cbreader): A C++ library for reading various SCP:CB formats.
+- [CBConverter](https://github.com/AWildErin/cbconverter): A tool using CBReader to convert SCP:CB formats to fbx.
+- [CBRoomConverter](https://github.com/AWildErin/CBRoomConverter): A tool to extract rooms from SCP:CB and place their entities in a JSON format.
 
 ### Misc
-- [FUnrealTemplates](https://github.com/AWildErin/funrealtemplates): Various templates for the VS2022 plugin [FUnreal](https://github.com/fdefelici/vs-funreal)
+- [FUnrealTemplates](https://github.com/AWildErin/funrealtemplates): Various templates for the VS2022 plugin [FUnreal](https://github.com/fdefelici/vs-funreal).
